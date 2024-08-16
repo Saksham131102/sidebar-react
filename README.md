@@ -20,6 +20,7 @@ To include this sidebar component in your project, clone this repository and ins
 git clone https://github.com/Saksham131102/sidebar-react.git
 cd sidebar-react
 npm install
+npm run dev
 ```
 
 ## Customization
